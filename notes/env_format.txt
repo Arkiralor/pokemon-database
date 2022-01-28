@@ -1,0 +1,6 @@
+DB_TYPE = ' '
+PGHOST = ' '
+PGPORT =  
+PGDATABASE = ' '
+PGUSER = ' '
+PGPASSWORD = ' '
